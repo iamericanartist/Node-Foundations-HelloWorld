@@ -1,6 +1,5 @@
 # Hello, World!
-## Node Foundations / Hello World
-
+## Node Foundations / Exercise 01 / Hello World
 
 ![Hello World!](helloWorldScreen.jpg?raw=true "Hello World! Screenshot")
 ***
